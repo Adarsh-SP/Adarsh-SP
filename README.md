@@ -1,247 +1,170 @@
 <div align="center">
 
-<!-- Bio Stats Card -->
+<img src="https://github.com/Adarsh-SP.png" width="120" style="border-radius: 50%;"/>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://www.google.com/search?q=https://www.google.com/url%3Fsa%3DE%26source%3Dgmail%26q%3Dhttps://github.com/Adarsh-SP.png" width="200" style="border-radius: 50%; border: 3px solid #00ff41;"/>
+# 👨‍💻 Adarsh SP
 
-👨‍💻 ADARSH SP
+**Part-Time Backend Engineer @ Nez Development Studios** &nbsp;|&nbsp; 📍 Bengaluru, India
 
-** Part-Time Backend Engineer @ NezDev ** 📍 Bengaluru, India
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Adarsh-SP)
 
-🎓 B.Tech in CSE @ JSS Academy
+</div>
 
-⭐ CGPA: 8.05/10.0
-⭐ Ex-ML Intern @ Starmark
+---
 
-</td>
-<td align="left" width="50%">
+## 🧬 About Me
 
-current_role:
-  company: "Nez Development Studios"
-  position: "Backend Engineer"
-  duration: "Sept 2025 - Present"
-  location: "Bengaluru, India"
+```yaml
+name: "Adarsh SP"
+class: "Backend & ML Engineer"
+location: "Bengaluru, India"
 
 education:
-  degree: "B.Tech Computer Science"
-  university: "JSS Academy of Technical Education"
+  degree: "B.Tech in Computer Science"
+  institution: "JSS Academy of Technical Education"
   duration: "2022 - 2026"
-  cgpa: "8.05"
+  cgpa: "8.05 / 10.0"
+
+experience:
+  current:
+    company: "Nez Development Studios"
+    role: "Part-Time Backend Engineer"
+    duration: "Sept 2025 - Present"
+  past:
+    company: "Starmark Software"
+    role: "Machine Learning Intern"
+    duration: "Aug 2025 - Dec 2025"
 
 focus_areas:
   - "Distributed Systems & IPC"
   - "Scalable ML Pipelines"
   - "Retrieval-Augmented Generation (RAG)"
+  - "Event-Driven Orchestration"
+  - "Blockchain Smart Contracts"
+```
 
+---
 
+## ⚡ Key Achievements
 
-</td>
-</tr>
-</table>
+| Metric | Value |
+|--------|-------|
+| 🏥 Healthcare Pipeline Scale | 50,000+ records/day |
+| ⚡ Trade Replication Latency | < 200ms |
+| 🔁 System Reliability | 99.9% uptime, auto-recovery < 10s |
+| 🎯 ML Inference Accuracy | 97% |
+| 💻 Production Code Delivered | 2,200+ lines |
 
-</div>
+---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-⚡ INITIALIZING NEURAL LINK... ⚡
+**Backend & Systems**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-</div>
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-🎮 PLAYER ATTRIBUTES
+**Web3 & Frontend**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📜 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-name: "Adarsh SP"
-class: "Backend & ML Engineer"
-level: 8.05
-guild: "JSS Academy of Technical Education"
-location: "Bengaluru, India"
+### 🤖 AI Legal Document Analyzer
+**RAG + InLegalBERT Hybrid Architecture**
 
-education:
-  degree: "B.Tech in Computer Science"
-  institution: "JSS Academy"
-  duration: "2022 - 2026"
-  cgpa: "8.05 / 10.0"
+- Real-time legal knowledge integration
+- Hybrid GCP infrastructure
+- Precedent retrieval & compliance checking
+- Plain-English clause extraction
+- Empowering small businesses with enterprise-grade legal tooling
 
-special_skills:
-  - Event-Driven Orchestration
-  - Multi-processing architectures
-  - Blockchain Smart Contracts
-
-
+`Python` `LangChain` `InLegalBERT` `GCP` `RAG`
 
 </td>
 <td width="50%" valign="top">
 
-experience:
-  Current:
-    company: "Nez Development Studios"
-    role: "Part-Time Backend Engineer"
-    duration: "Sept 2025 - Present"
-    
-  Past:
-    company: "Starmark Software"
-    role: "Machine Learning Intern"
-    duration: "Aug 2025 - Dec 2025"
+### 🔗 Web3 Healthcare Network
+**Decentralized Secure Health Platform**
 
-key_achievements:
-  - Scaled healthcare pipelines to 50k+ records/day
-  - <200ms latency in trade replication IPC
-  - 99.9% reliability with auto-recovery <10s
-  - 97% accuracy in deployed ML inference
-  - Delivered 2,200+ lines of production code
+- Web3 authentication via MetaMask
+- IPFS encrypted file storage
+- Solidity smart contracts integration
+- Tamper-proof medical record auditing
+- High-performance React.js & Next.js UI
 
-
+`Solidity` `IPFS` `React` `Next.js` `MetaMask`
 
 </td>
 </tr>
 </table>
 
-⚔️ EQUIPPED ARSENAL (Tech Stack)
+---
 
-<details>
-<summary><b>🐍 Backend Arsenal</b></summary>
-
-</details>
-
-<details>
-<summary><b>⚛️ Frontend Magic</b></summary>
-
-</details>
-
-<details>
-<summary><b>🤖 AI/ML Spells</b></summary>
-
-</details>
-
-<details>
-<summary><b>🛠️ DevOps & Tools</b></summary>
-
-</details>
-
-📜 QUEST LOG (Highlighted Projects)
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-🤖 AI Legal Document Analyzer
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="100">
-
-RAG + InLegalBERT Hybrid Architecture
-
-+ Real-time legal knowledge integration
-+ Hybrid GCP infrastructure
-+ Precedent retrieval & compliance
-+ Plain-English clause extraction
-+ Empowering small businesses
-
-
-
-</td>
-<td width="50%" align="center">
-
-🔗 Web3 Healthcare Network
-
-<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="100">
-
-Decentralized Secure Platform
-
-+ Web3 authentication via MetaMask
-+ IPFS encrypted file storage
-+ Solidity smart contracts integration
-+ Tamper-proof medical auditing
-+ React.js & Next.js high-perf UI
-
-
-
-</td>
-</tr>
-</table>
-
-📊 COMBAT METRICS
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAdarsh-SP%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00ff41%26icon_color%3D00ff41%26text_color%3D00ff41" alt="GitHub Stats"/>
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAdarsh-SP%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00ff41%26fire%3D00ff41%26currStreakLabel%3D00ff41" alt="Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-SP&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-SP&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak Stats"/>
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-SP&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&langs_count=10" alt="Top Languages"/>
 
 </div>
 
-<div align="center">
+---
 
-<img width="60%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAdarsh-SP%26layout%3Dcompact%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00ff41%26text_color%3D00ff41%26langs_count%3D10" alt="Top Languages"/>
+## 🎯 Current Quests
 
-</div>
-
-<div align="center">
-
-</div>
-
-🔥 CORE DIRECTIVE
-
-<div align="center">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJ2OXJqYjZmMjVyZnV4ZGloa3AyaHdwZWJnZnUxYW5oZWNxN2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwZ392mpIdkvrvTnjm/giphy.gif" width="300" alt="Luffy"/>
-
-KING OF PIRATES
-
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  "You have no enemies. No one has enemies.                 ║
-║    There is no reason to harm anyone in the world."        ║
-║                                          — Thors           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-
-
-
-</div>
-
-🎯 ONGOING BOUNTIES
-
+```javascript
 const currentQuests = {
   main: {
     name: "Enterprise Trade Replication",
-    progress: "████████░░",
-    completion: 80,
+    progress: "████████░░  80%",
     reward: "Fault-tolerant orchestration mastery"
   },
-  
   side: {
     name: "RAG Architecture Evolution",
-    progress: "█████████░",
-    completion: 90,
+    progress: "█████████░  90%",
     reward: "Advanced AI pipeline capabilities"
   },
-  
   training: {
     name: "Distributed Systems Deep Dive",
-    progress: "██████░░░░",
-    completion: 60,
+    progress: "██████░░░░  60%",
     reward: "Microservices enlightenment"
   }
 };
 
-// Execute missions
 while (!allQuestsComplete()) {
   writeCode();
   optimizeDatabase();
   levelUp();
 }
+```
 
-
-
-📡 COMM LINKS
-
-<div align="center">
-
-</div>
-
-⚡ "Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning"
+---
