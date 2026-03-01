@@ -122,22 +122,7 @@ focus_areas:
 </tr>
 </table>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-SP&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-SP&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak Stats"/>
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-SP&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&langs_count=10" alt="Top Languages"/>
-
-</div>
-
----
 
 ## 🎯 Current Quests
 
